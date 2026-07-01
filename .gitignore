@@ -4,3 +4,8 @@
 .vs/
 bin/
 obj/
+*.log
+*.dll
+*.exe
+*.pdb
+.vscode/
